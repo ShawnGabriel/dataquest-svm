@@ -125,48 +125,17 @@ Declining sectors:
 # 🔧 Reproducibility Instructions
 
 ### **1. Install Dependencies**
-(Provide your environment or let us generate `requirements.txt` for you.)
 ```bash
 pip install -r requirements.txt
 ````
 
-### **2. Run Notebooks (in order)**
+### **2. Run Notebooks (they work separately)**
 
 1. `Graphs.ipynb`
 2. `BusinessTrends&COVID19.ipynb`
 3. `EnsembleModel.ipynb`
 
 All figures and outputs in the presentation are reproducible from these notebooks.
-
----
-
-# ✔ Competition Evaluation Alignment
-
-Our submission meets all DataQuest evaluation criteria:
-
-### **✓ Technical Rigor**
-
-Clear methodology spanning preprocessing → analysis → forecasting.
-
-### **✓ Interpretability**
-
-COVID impact charts, survival curves, and easy-to-read sector rankings.
-
-### **✓ Reproducibility**
-
-All results can be regenerated via three notebooks.
-
-### **✓ Insight Quality**
-
-Specific, actionable findings by sector and geography.
-
-### **✓ Forward-Looking Analysis**
-
-10-year forecasts with modern ML + DL ensembles.
-
-### **✓ Clear Communication**
-
-Matches SVM.pdf deck exactly with consistent output.
 
 ---
 
