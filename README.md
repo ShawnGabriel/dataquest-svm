@@ -5,7 +5,7 @@ This repository contains our complete analytical pipeline for the DataQuest 2025
 We analyze **Vancouver’s business licence data from 1997–2025**, quantify the impact of COVID-19, evaluate long-term business survival, and forecast sector- and neighborhood-level activity for **2026–2035** using a weighted ensemble of modern forecasting models.
 
 Our official presentation deck is included in:  
-**`SVM.pdf`**  :contentReference[oaicite:0]{index=0}
+**`SVM.pdf`**
 
 ---
 
